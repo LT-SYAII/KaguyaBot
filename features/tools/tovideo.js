@@ -41,7 +41,9 @@ module.exports = {
     await kgy.sendMessage(
       m.chat,
       {
-        video: out,
+        video: { 
+       url: out
+        },
         gifPlayback: command === "togif" ? true : false,
       },
       {
