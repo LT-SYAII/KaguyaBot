@@ -19,7 +19,7 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/LT-SYAII/KaguyaBot/
+$ git clone https://github.com/W18T4 SE6/kaguyabot/
 $ cd KaguyaBot
 $ npm i
 $ npm start
